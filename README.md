@@ -10,3 +10,5 @@ This Convolutional Neural Networks for Sentence Classification accomplishes grea
 					<li>Experiment on different input methods used for sentences like Bag-of-words N-gram,CountVectorizer and Word to Vectors.
 					Also used different Nerual Networks but the performance outperformed with RCNN.</li> 
                     <li>The final result of the project,in realtime the model can classify the sentences into its domain with 86% accuracy.</li>
+
+![alt text](https://github.com/saumya-saumya/Contextual-Domain-classification-in-spoken-language-systems/blob/master/Capture.JPG)
